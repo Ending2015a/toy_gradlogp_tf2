@@ -9,7 +9,7 @@ This repo implements some toy examples of the following score matching algorithm
 * `deen`: [deep energy estimator networks](https://arxiv.org/abs/1805.08306)
 * `dsm`: [denoisnig score matching](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)
 
-Related repositories:
+Related projects:
 * [toy_gradlogp](https://github.com/Ending2015a/toy_gradlogp): PyTorch Implementation.
 
 ## Installation
@@ -28,7 +28,7 @@ pip install git+https://github.com.Ending2015a/toy_gradlogp_tf2.git@master
 ```
 
 ## Examples
-The examples are placed in [toy_gradlogp/run/](https://github.com/Ending2015a/toy_gradlogp/tree/master/toy_gradlogp/run)
+The examples are placed in [toy_gradlogp/run/](https://github.com/Ending2015a/toy_gradlogp_tf2/tree/master/toy_gradlogp/run)
 
 ### Train an energy model
 
